@@ -10,6 +10,9 @@ Proyek **AI Bipedal Walker** ini adalah implementasi algoritma reinforcement lea
 
 Tujuan dari proyek ini adalah untuk melatih model AI agar dapat mengendalikan karakter berkaki dua untuk berjalan tanpa jatuh
 
+## Demo: 
+![Lunar Lander GYM Demo](./demo.gif)
+
 ## 🚀 Fitur
 
 - Model AI yang dapat belajar berjalan.
